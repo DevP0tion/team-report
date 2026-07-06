@@ -1,6 +1,6 @@
 {
   "name": "team-report",
-  "description": "Multi-agent team analysis producing an interactive paginated HTML report with Accept/Defer/Reject decision cards and a feedback loop.",
+  "description": "Turns any request — 'review the architecture', 'analyze the color theme' — into a responsive, interactive HTML report built by a team of AI experts sized to the task. You accept, defer, or reject each suggestion, and future reports learn from your choices.",
   "version": "0.1.0",
   "author": {
     "name": "DevP0tion",
