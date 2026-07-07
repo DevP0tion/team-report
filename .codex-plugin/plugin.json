@@ -1,0 +1,10 @@
+{
+  "name": "team-report-codex",
+  "description": "Turns any request — 'review the architecture', 'analyze the color theme' — into a responsive, interactive HTML report built by a team of AI experts sized to the task. You accept, defer, or reject each suggestion, and future reports learn from your choices.",
+  "version": "0.1.0",
+  "author": {
+    "name": "DevP0tion",
+    "email": "1k0j2i4@gmail.com"
+  },
+  "skills": "./skills/"
+}
